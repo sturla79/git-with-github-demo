@@ -6,5 +6,5 @@ Disallow:
 # This line has been added to demonstrate the usage of "git push" commanii
 # This line has been added to demonstrate the usage of SSH protocol
 # This line has been added by sturla79 to demonstrate git pull
-
+# This line has been added from local repo to demonstrate git push
 # some line
